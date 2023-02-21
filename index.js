@@ -7,7 +7,8 @@
 const Discord = require("discord.js")
 const weather = require("weather-js")
 
-const TOKEN = "OTMxMjA3NzIxNzgzNTQ1ODU3.YeBExQ.vrGClxj2qyBn2M6zyP-Rm_LEEmA"
+//TOKEN below is inactive, will need to be replaced by user
+const TOKEN = ""
 
 module.exports = {
     name: "weather",
